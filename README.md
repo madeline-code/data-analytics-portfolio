@@ -1,52 +1,114 @@
-A/B Testing Analysis
+# Hi, I'm Madeline
 
-Author: Madeline Galbraith
+Bachelor of Science in Data Analytics (Western Governors University)
 
-Overview
+Passionate about healthcare analytics, business intelligence, and using data to improve decision-making.
 
-This project evaluates the results of an A/B test to determine whether a redesigned webpage increased customer conversion rates. Using Python and statistical analysis, I analyzed the experiment, tested for statistical significance, and developed a business recommendation based on the results.
+Pennsylvania, USA
 
-Business Problem
+---
 
-A company introduced a redesigned webpage and wanted to determine whether it should replace the existing version. The objective was to compare conversion rates between the control and treatment groups and determine whether the observed improvement was statistically significant.
+## About Me
 
-Tools Used
-Python
-Pandas
-NumPy
-Matplotlib
-Statsmodels
-Jupyter Notebook
-Skills Demonstrated
-Data Cleaning & Validation
-Exploratory Data Analysis (EDA)
-Statistical Analysis
-A/B Testing
-Hypothesis Testing
-Logistic Regression
-Data Visualization
-Business Reporting
-Data-Driven Decision Making
-Project Workflow
+I have a background in healthcare technology, where I supported enterprise software implementations, customer onboarding, operational reporting, and process improvement initiatives.
 
-This project included:
+I'm currently completing my B.S. in Data Analytics while building projects that demonstrate practical experience with Python, SQL, statistical analysis, and data visualization.
 
-Cleaning and validating the dataset
-Exploring customer conversion behavior
-Calculating conversion rates for treatment and control groups
-Performing hypothesis testing to evaluate statistical significance
-Building logistic regression models
-Evaluating whether geographic location influenced conversion rates
-Developing a business recommendation based on the findings
-Results
+I'm especially interested in:
 
-The treatment webpage produced a higher conversion rate than the control webpage. Statistical testing showed the improvement was significant, supporting rejection of the null hypothesis. Logistic regression also found that webpage design—not geographic location—was the primary factor associated with increased conversions.
+- Healthcare Analytics
+- Business Intelligence
+- Predictive Analytics
+- Data Engineering
+- Machine Learning
 
-Business Recommendation
+---
 
-Based on the analysis, the redesigned webpage should be implemented. The treatment consistently outperformed the control group, and no evidence suggested separate regional implementations were necessary.
+## Technical Skills
 
-Repository Contents
-A_B Test Results Analysis.pptx – Executive presentation summarizing the business problem, methodology, results, and recommendation.
-Analyze_ab_test_results_notebook.ipynb – Complete Python notebook containing the analysis, statistical testing, visualizations, and conclusions.
-README.md – Project overview and documentation.
+### Languages
+
+- Python
+- SQL
+
+### Analytics
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Hypothesis Testing
+- Logistic Regression
+- A/B Testing
+- Data Visualization
+- Data Validation
+- Data Modeling
+
+### Tools
+
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+- Git
+- GitHub
+- Advanced Excel
+
+### Healthcare
+
+- Revenue Cycle Management (RCM)
+- HIPAA
+- Electronic Health Records (EHR)
+- Healthcare Analytics
+
+---
+
+# Featured Projects
+
+## A/B Testing Analysis
+
+Evaluated whether a redesigned webpage increased customer conversion rates using statistical hypothesis testing and logistic regression.
+
+**Skills**
+
+Python • Statistics • Data Visualization • Business Analysis
+
+---
+
+## Medical Appointment No-Show Analysis
+
+Analyzed over 100,000 healthcare appointments to identify factors associated with patient no-shows.
+
+**Skills**
+
+Healthcare Analytics • Python • EDA • Visualization
+
+---
+
+## 🩺 Healthcare Outcomes Analysis *(In Progress)*
+
+Combining CMS Hospital Quality data with U.S. Census data to investigate demographic factors associated with preventable hospitalizations.
+
+**Skills**
+
+API Integration • Data Wrangling • Healthcare Analytics
+
+---
+
+## Currently Learning
+
+- AWS
+- Data Engineering
+- Machine Learning
+- Cloud Analytics
+
+---
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/madeline-galbraith-6a7738381/
+
+Email: madeline.bistritz@gmail.com
+
+Portfolio Repository:
+
+https://github.com/madeline-code/data-analytics-portfolio
