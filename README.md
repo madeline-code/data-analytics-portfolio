@@ -84,7 +84,7 @@ Healthcare Analytics • Python • EDA • Visualization
 
 ---
 
-## 🩺 Healthcare Outcomes Analysis *(In Progress)*
+## Healthcare Outcomes Analysis *(In Progress)*
 
 Combining CMS Hospital Quality data with U.S. Census data to investigate demographic factors associated with preventable hospitalizations.
 
