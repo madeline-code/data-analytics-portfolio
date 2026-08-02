@@ -191,4 +191,3 @@ The completed ETL pipeline successfully loads song metadata and user activity lo
 - psycopg2
 - Jupyter Notebook
 
-- 
