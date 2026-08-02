@@ -7,6 +7,7 @@ This folder contains professional certifications that support my education and e
 ### Udacity
 
 #### Advanced Data Wrangling and Data Modeling
+**Certificate:** [View Certificate](Udacity-Advanced-Data-Wrangling-and-Data-Modeling.png)
 **Issued:** August 2026
 
 Topics covered include:
@@ -24,6 +25,7 @@ Topics covered include:
 ---
 
 #### Data Analysis and Descriptive Statistics
+**Certificate:** [View Certificate](Udacity-Data-Analysis-and-Descriptive-Statistics.png)
 **Issued:** August 2026
 
 Topics covered include:
