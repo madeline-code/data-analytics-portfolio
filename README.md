@@ -123,13 +123,20 @@ Python • Healthcare Analytics • Exploratory Data Analysis • Data Visualiza
 
 ---
 
-## [Capstone](Capstone)
+## Upcoming Projects
 
-Completed a comprehensive data analytics capstone project applying the full analytics lifecycle, including data preparation, analysis, visualization, and communication of results.
+The following portfolio projects are planned as I complete the remaining coursework for my Bachelor of Science in Data Analytics at Western Governors University.
+
+- **Data Analytics Applications** – Business analytics, reporting, and applied data analysis.
+- **Data Analysis with R** – Statistical analysis and data visualization using R.
+- **Machine Learning** – Predictive modeling and machine learning algorithms.
+- **Data Visualization** – Interactive dashboards and visual storytelling.
+- **Machine Learning DevOps** – Model deployment and operational machine learning workflows.
+- **Data Analytics Capstone** – An end-to-end analytics project integrating data collection, preparation, analysis, visualization, and business recommendations.
 
 **Skills**
 
-Python • SQL • Data Analysis • Data Visualization • Business Communication
+Python • SQL • Data Cleaning • Data Wrangling • Exploratory Data Analysis (EDA) • Statistical Analysis • Machine Learning • Predictive Analytics • Data Visualization • ETL • Feature Engineering • Model Evaluation • Business Intelligence • Technical Documentation • Business Communication
 
 ---
 
