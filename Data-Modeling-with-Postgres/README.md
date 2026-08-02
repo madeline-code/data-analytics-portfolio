@@ -2,6 +2,8 @@
 
 ## Project Summary
 
+This project demonstrates the design of a relational database and the development of an ETL pipeline to transform raw JSON data into an analytical PostgreSQL database.
+
 This project builds a PostgreSQL database for Sparkify, a music streaming startup. The source data consists of JSON files containing song metadata and user activity logs. The goal is to design a star schema optimized for song play analysis and build an ETL pipeline that loads the data into the database.
 
 The project creates one fact table and four dimension tables:
@@ -164,6 +166,23 @@ test.ipynb
 
 ---
 
+## Results
+
+The completed ETL pipeline successfully loads song metadata and user activity logs into a PostgreSQL star schema. The resulting database supports efficient analytical queries on song play events while maintaining normalized dimension tables.
+
+## Skills Demonstrated
+
+- Database Design
+- Star Schema Modeling
+- SQL
+- PostgreSQL
+- ETL Pipeline Development
+- Data Transformation
+- JSON Data Processing
+- Python Programming
+- Pandas
+- Relational Databases
+
 ## Technologies Used
 
 - Python
@@ -171,3 +190,5 @@ test.ipynb
 - Pandas
 - psycopg2
 - Jupyter Notebook
+
+- 
