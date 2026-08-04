@@ -6,8 +6,24 @@ This folder contains professional certifications that support my education and e
 
 ### Udacity
 
+#### R Programming
+**Certificate:** [View Certificate](Udacity-R-Programming.png)  
+**Issued:** August 2026
+
+Topics covered include:
+
+- R programming
+- Data import and preparation
+- Data exploration
+- Data visualization
+- Descriptive statistics
+- Statistical analysis
+- Communicating analytical findings
+
+---
+
 #### Advanced Data Wrangling and Data Modeling
-**Certificate:** [View Certificate](Udacity-Advanced-Data-Wrangling-and-Data-Modeling.png)
+**Certificate:** [View Certificate](Udacity-Advanced-Data-Wrangling-and-Data-Modeling.png)  
 **Issued:** August 2026
 
 Topics covered include:
@@ -25,7 +41,7 @@ Topics covered include:
 ---
 
 #### Data Analysis and Descriptive Statistics
-**Certificate:** [View Certificate](Udacity-Data-Analysis-and-Descriptive-Statistics.png)
+**Certificate:** [View Certificate](Udacity-Data-Analysis-and-Descriptive-Statistics.png)  
 **Issued:** August 2026
 
 Topics covered include:
@@ -50,10 +66,10 @@ Currently preparing for the AWS Certified Cloud Practitioner certification.
 
 ### CompTIA Data+
 
-Currently completing the CompTIA Data+ certification covering data analytics fundamentals, visualization, governance, quality, and statistical analysis.
+Currently completing coursework aligned with the CompTIA Data+ certification, covering data analytics, visualization, governance, data quality, and statistical analysis.
 
 ---
 
 ### CompTIA Project+
 
-Currently completing the CompTIA Project+ certification covering project management principles, planning, communication, scheduling, budgeting, and risk management.
+Currently completing coursework aligned with the CompTIA Project+ certification, covering project planning, communication, scheduling, budgeting, and risk management.
