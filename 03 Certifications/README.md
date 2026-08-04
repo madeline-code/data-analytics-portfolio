@@ -7,7 +7,8 @@ This folder contains professional certifications that support my education and e
 ### Udacity
 
 #### R Programming
-**Certificate:** [View Certificate](Udacity-R-Programming.png)  
+**Certificate Image:** [View Certificate](Udacity-R-Programming.png)  
+**Verify Certificate:** [Udacity Credential](https://www.udacity.com/certificate/e/348662d0-8f76-11f1-a413-8b965638aa5e)  
 **Issued:** August 2026
 
 Topics covered include:
@@ -23,7 +24,8 @@ Topics covered include:
 ---
 
 #### Advanced Data Wrangling and Data Modeling
-**Certificate:** [View Certificate](Udacity-Advanced-Data-Wrangling-and-Data-Modeling.png)  
+**Certificate Image:** [View Certificate](Udacity-Advanced-Data-Wrangling-and-Data-Modeling.png)  
+**Verify Certificate:** [Udacity Credential](https://www.udacity.com/certificate/e/23f9bc4a-857c-11f1-b49d-1f8776790177)  
 **Issued:** August 2026
 
 Topics covered include:
@@ -41,7 +43,8 @@ Topics covered include:
 ---
 
 #### Data Analysis and Descriptive Statistics
-**Certificate:** [View Certificate](Udacity-Data-Analysis-and-Descriptive-Statistics.png)  
+**Certificate Image:** [View Certificate](Udacity-Data-Analysis-and-Descriptive-Statistics.png)  
+**Verify Certificate:** [Udacity Credential](https://www.udacity.com/certificate/e/f860f0a4-8584-11f1-8faa-23f52c343936)  
 **Issued:** August 2026
 
 Topics covered include:
