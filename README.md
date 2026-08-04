@@ -1,6 +1,6 @@
 # Madeline Galbraith
 
-**Data Analyst | Healthcare Analytics | Python | SQL**
+**Data Analyst | Healthcare Analytics | Python | SQL | R**
 
 Bachelor of Science in Data Analytics  
 Western Governors University *(Expected September 2026)*
@@ -11,9 +11,9 @@ Pennsylvania, USA
 
 # About Me
 
-I have several years of experience supporting healthcare software implementations, enterprise customer onboarding, operational reporting, and process improvement initiatives. I am completing a Bachelor of Science in Data Analytics while building projects that demonstrate practical skills in Python, SQL, statistical analysis, database design, and data visualization.
+I have more than five years of experience supporting healthcare software implementations, enterprise onboarding, operational reporting, and process improvement within healthcare SaaS environments. I am completing a Bachelor of Science in Data Analytics while building a portfolio that demonstrates practical experience with Python, SQL, R, statistical analysis, ETL pipelines, database design, and data visualization.
 
-I enjoy using data to solve business problems and improve decision-making, with a particular interest in healthcare analytics, predictive modeling, and business intelligence.
+My interests include healthcare analytics, business intelligence, predictive analytics, and using data to improve operational performance and decision-making.
 
 ---
 
@@ -23,6 +23,7 @@ I enjoy using data to solve business problems and improve decision-making, with 
 
 - Python
 - SQL
+- R
 
 ## Data Analytics
 
@@ -33,22 +34,28 @@ I enjoy using data to solve business problems and improve decision-making, with 
 - Hypothesis Testing
 - Logistic Regression
 - A/B Testing
-- Data Visualization
-- Data Validation
 - ETL (Extract, Transform, Load)
 - Data Modeling
+- Data Validation
+- Data Visualization
 
 ## Databases
 
 - PostgreSQL
-- SQL
 
-## Libraries
+## Libraries & Packages
+
+### Python
 
 - Pandas
 - NumPy
 - Matplotlib
 - Requests
+
+### R
+
+- dplyr
+- ggplot2
 
 ## Tools
 
@@ -59,21 +66,21 @@ I enjoy using data to solve business problems and improve decision-making, with 
 
 ## Healthcare
 
+- Electronic Health Records (EHR)
 - Revenue Cycle Management (RCM)
 - HIPAA
-- Electronic Health Records (EHR)
 - Healthcare Analytics
 
 ---
 
 # Certifications
 
-### Completed
+## Completed
 
 - Udacity – Advanced Data Wrangling and Data Modeling
 - Udacity – Data Analysis and Descriptive Statistics
 
-### Currently Pursuing
+## Currently Pursuing
 
 - AWS Certified Cloud Practitioner
 - CompTIA Data+
@@ -83,60 +90,43 @@ I enjoy using data to solve business problems and improve decision-making, with 
 
 # Featured Projects
 
-## [Healthcare Data Wrangling](Healthcare-Data-Wrangling)
+## [Healthcare Data Wrangling & Analytics](01%20Featured%20Projects/healthcare-data-wrangling-analytics)
 
-Combined county-level CMS Medicare utilization data with U.S. Census demographic data using multiple data acquisition methods, cleaned and merged the datasets, and analyzed the relationship between median household income and emergency room utilization among Medicare beneficiaries.
+Combined CMS Medicare utilization data with U.S. Census demographic data collected through APIs and CSV files. Cleaned, transformed, merged, and analyzed the data to examine relationships between demographic factors and preventable healthcare utilization.
 
 **Skills**
 
-Python • API Integration • Data Wrangling • Data Cleaning • Pandas • Data Visualization • Healthcare Analytics
+Python • Pandas • API Integration • ETL • Data Cleaning • Data Wrangling • Data Visualization • Healthcare Analytics
 
 ---
 
-## [Data Modeling with PostgreSQL](Data-Modeling-with-Postgres)
+## [Data Modeling & ETL with PostgreSQL](01%20Featured%20Projects/data-modeling-etl-postgresql)
 
-Designed a PostgreSQL star schema database and developed an ETL pipeline that transformed raw JSON song metadata and user activity logs into a relational database optimized for analytical queries.
+Designed a PostgreSQL star schema and developed an ETL pipeline that transformed raw JSON data into a relational database optimized for analytical queries.
 
 **Skills**
 
-PostgreSQL • SQL • Python • ETL • Database Design • Data Modeling • Pandas
+Python • SQL • PostgreSQL • ETL • Database Design • Data Modeling
 
 ---
 
-## [A/B Testing Analysis](AB-Testing-Analysis)
+## [A/B Testing Analysis](01%20Featured%20Projects/ab-testing-analysis)
 
-Evaluated whether a redesigned webpage improved customer conversion rates using statistical hypothesis testing and logistic regression.
+Evaluated webpage conversion performance using hypothesis testing and logistic regression to determine whether a redesigned webpage improved customer conversion rates.
 
 **Skills**
 
-Python • Statistics • Logistic Regression • Data Visualization • Business Analytics
+Python • Statistics • Hypothesis Testing • Logistic Regression • Data Visualization
 
 ---
 
-## [Medical Appointment No-Show Analysis](Medical-NoShow-Analysis)
+## [Medical Appointment No-Show Analysis](01%20Featured%20Projects/medical-appointment-no-show-analysis)
 
-Analyzed more than 100,000 healthcare appointments to identify factors associated with patient no-shows through exploratory data analysis and visualization.
-
-**Skills**
-
-Python • Healthcare Analytics • Exploratory Data Analysis • Data Visualization
-
----
-
-## Upcoming Projects
-
-The following portfolio projects are planned as I complete the remaining coursework for my Bachelor of Science in Data Analytics at Western Governors University.
-
-- **Data Analytics Applications** – Business analytics, reporting, and applied data analysis.
-- **Data Analysis with R** – Statistical analysis and data visualization using R.
-- **Machine Learning** – Predictive modeling and machine learning algorithms.
-- **Data Visualization** – Interactive dashboards and visual storytelling.
-- **Machine Learning DevOps** – Model deployment and operational machine learning workflows.
-- **Data Analytics Capstone** – An end-to-end analytics project integrating data collection, preparation, analysis, visualization, and business recommendations.
+Analyzed more than 100,000 healthcare appointments using exploratory data analysis to identify factors associated with patient no-shows.
 
 **Skills**
 
-Python • SQL • Data Cleaning • Data Wrangling • Exploratory Data Analysis (EDA) • Statistical Analysis • Machine Learning • Predictive Analytics • Data Visualization • ETL • Feature Engineering • Model Evaluation • Business Intelligence • Technical Documentation • Business Communication
+Python • Pandas • Exploratory Data Analysis • Data Visualization • Healthcare Analytics
 
 ---
 
@@ -153,11 +143,14 @@ Python • SQL • Data Cleaning • Data Wrangling • Exploratory Data Analysi
 
 # Connect With Me
 
-**LinkedIn**  
+**LinkedIn**
+
 www.linkedin.com/in/madeline-galbraith-6a7738381/
 
-**Email**  
+**Email**
+
 madeline.bistritz@gmail.com
 
-**GitHub Portfolio**  
+**GitHub Portfolio**
+
 https://github.com/madeline-code/data-analytics-portfolio
