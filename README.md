@@ -1,6 +1,6 @@
 # Madeline Galbraith
 
-**Data Analyst | Healthcare Analytics | Python | SQL | R**
+**Data Analyst | Healthcare Analytics | Python | SQL | R | AWS Certified**
 
 Bachelor of Science in Data Analytics  
 Western Governors University *(Expected September 2026)*
@@ -11,7 +11,7 @@ Pennsylvania, USA
 
 # About Me
 
-I have more than five years of experience supporting healthcare software implementations, enterprise onboarding, operational reporting, and process improvement within healthcare SaaS environments. I am completing a Bachelor of Science in Data Analytics while building a portfolio that demonstrates practical experience with Python, SQL, R, statistical analysis, ETL pipelines, database design, and data visualization.
+I have more than five years of experience supporting healthcare software implementations, enterprise onboarding, operational reporting, and process improvement within healthcare SaaS environments. I am completing a Bachelor of Science in Data Analytics while building a portfolio that demonstrates hands-on experience with Python, SQL, R, statistical analysis, ETL pipelines, database design, and data visualization.
 
 My interests include healthcare analytics, business intelligence, predictive analytics, and using data to improve operational performance and decision-making.
 
@@ -64,6 +64,14 @@ My interests include healthcare analytics, business intelligence, predictive ana
 - Jupyter Notebook
 - Microsoft Excel
 
+## Cloud
+
+- Amazon Web Services (AWS)
+- Cloud Computing
+- Cloud Storage
+- Cloud Databases
+- Cloud Security
+
 ## Healthcare
 
 - Electronic Health Records (EHR)
@@ -77,12 +85,12 @@ My interests include healthcare analytics, business intelligence, predictive ana
 
 ## Completed
 
+- AWS Certified Cloud Practitioner — Amazon Web Services *(August 2026)*
 - Udacity – Advanced Data Wrangling and Data Modeling
 - Udacity – Data Analysis and Descriptive Statistics
 
 ## Currently Pursuing
 
-- AWS Certified Cloud Practitioner
 - CompTIA Data+
 - CompTIA Project+
 
