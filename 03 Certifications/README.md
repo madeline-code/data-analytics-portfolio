@@ -4,9 +4,34 @@ This folder contains professional certifications that support my education and e
 
 ## Completed
 
+### AWS Certified Cloud Practitioner
+
+**Certificate:** [View Certificate](AWS-Certified-Cloud-Practitioner-certificate.pdf)  
+**Issued:** August 2026  
+**Expires:** August 2029  
+**Validation Number:** d82019bb03b94f1c92dfd8e0bfbc436f  
+**Verify Certificate:** [AWS Certification Verification](https://aws.amazon.com/verification)
+
+Topics covered include:
+
+- AWS cloud concepts
+- AWS global infrastructure
+- Compute services
+- Cloud storage
+- AWS databases
+- Identity and access management
+- Cloud security
+- Monitoring and logging
+- AWS pricing and billing
+- Shared responsibility model
+- AWS support plans
+
+---
+
 ### Udacity
 
 #### R Programming
+
 **Certificate Image:** [View Certificate](Udacity-R-Programming.png)  
 **Verify Certificate:** [Udacity Credential](https://www.udacity.com/certificate/e/348662d0-8f76-11f1-a413-8b965638aa5e)  
 **Issued:** August 2026
@@ -24,6 +49,7 @@ Topics covered include:
 ---
 
 #### Advanced Data Wrangling and Data Modeling
+
 **Certificate Image:** [View Certificate](Udacity-Advanced-Data-Wrangling-and-Data-Modeling.png)  
 **Verify Certificate:** [Udacity Credential](https://www.udacity.com/certificate/e/23f9bc4a-857c-11f1-b49d-1f8776790177)  
 **Issued:** August 2026
@@ -43,6 +69,7 @@ Topics covered include:
 ---
 
 #### Data Analysis and Descriptive Statistics
+
 **Certificate Image:** [View Certificate](Udacity-Data-Analysis-and-Descriptive-Statistics.png)  
 **Verify Certificate:** [Udacity Credential](https://www.udacity.com/certificate/e/f860f0a4-8584-11f1-8faa-23f52c343936)  
 **Issued:** August 2026
@@ -60,12 +87,6 @@ Topics covered include:
 ---
 
 ## In Progress
-
-### AWS Certified Cloud Practitioner
-
-Currently preparing for the AWS Certified Cloud Practitioner certification.
-
----
 
 ### CompTIA Data+
 
