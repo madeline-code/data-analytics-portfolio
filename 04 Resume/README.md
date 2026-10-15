@@ -4,4 +4,4 @@ The **Current_Resume** folder contains the latest version of my resume.
 
 The resume is updated regularly to reflect new technical projects, certifications, coursework, and professional experience.
 
-**Current version:** September 29, 2026
+**Current version:** October 15, 2026
