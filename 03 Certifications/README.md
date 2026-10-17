@@ -41,7 +41,7 @@ Skills covered:
 
 ### CompTIA Data+
 
-**Certificate:** [View Certificate](CompTIA-Data+-ce-certificate.pdf)  
+**Certificate:** [View Certificate](CompTIA-Data+-certificate.pdf)  
 **Issued:** October 15, 2026  
 **Valid Through:** October 15, 2029
 
